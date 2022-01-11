@@ -1,4 +1,11 @@
-# datav
+
+## 我的py大作业
+## B站top数据可视化大屏
+
+技术栈:
+
+前端:vue+axios+datav+echarts
+
 
 ## Project setup
 ```
@@ -20,5 +27,9 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+后端:python-fastapi+mongodb
+
+
+爬虫:requests+bs4+pymongo
+
