@@ -1,20 +1,24 @@
-# mypybig_homework
-#大家好献丑了 我的py大作业 
-B站排行榜数据可视化大屏
+# datav
 
+## Project setup
+```
+npm install
+```
 
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-技术栈:
+### Compiles and minifies for production
+```
+npm run build
+```
 
-        前端:vue+axios+datav+echarts
-        
-        
-        
-        后端:fastapi+mongodb+python
-        
-        
-        爬虫；request+pymongo+bs4
-        
-        
-        
-        
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
